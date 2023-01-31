@@ -6,6 +6,10 @@ const Modal = () => {
    <>
    <Box>
     <Text>Modal to be added here</Text>
+    <Box>
+      <Text>Image Section</Text>
+      <Text>Username</Text>
+    </Box>
     </Box></>
   )
 }
