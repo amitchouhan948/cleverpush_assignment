@@ -9,6 +9,7 @@ const Modal = () => {
     <Box>
       <Text>Image Section</Text>
       <Text>Username</Text>
+      <Text>password</Text>
     </Box>
     </Box></>
   )
